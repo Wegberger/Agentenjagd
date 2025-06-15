@@ -1,4 +1,4 @@
-# 🕵️ Agentenjagd – Das Real-Life Scotland Yard Webspiel
+# 🕵️ Agentenjagd – Das Real-Life Agenten Webspiel
 
 **Agentenjagd** ist eine Webanwendung für ein analoges Detektivspiel im Stil von *Scotland Yard*, bei dem echte Spieler sich im Gelände bewegen und über eine Webkarte verfolgt werden.
 
