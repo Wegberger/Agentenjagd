@@ -25,9 +25,6 @@
 ├── map.php                # Spielerkarte
 ├── move.php               # Bewegungssystem
 ├── admin/                 # Spielleitung & Steuerung
-├── js/                    # JavaScript-Funktionen
-├── css/                   # Stylesheets
 ├── db/schema.sql          # Beispielhafte Datenbankstruktur
-├── inc/db-connect.php     # Datenbankverbindung (Dummywerte)
 ├── LICENSE
 └── README.md
